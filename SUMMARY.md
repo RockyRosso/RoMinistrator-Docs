@@ -20,3 +20,19 @@
   * [Component Listener](customizing-roministrator/custom-commands/component-listener/README.md)
     * [listen](customizing-roministrator/custom-commands/component-listener/listen.md)
     * [stop\_listen](customizing-roministrator/custom-commands/component-listener/stop\_listen.md)
+
+## Commands
+
+* [General](commands/general/README.md)
+  * [info](commands/general/info.md)
+  * [ping](commands/general/ping.md)
+  * [settings](commands/general/settings.md)
+  * [verify](commands/general/verify.md)
+* [Management](commands/management/README.md)
+  * [announcement](commands/management/announcement.md)
+  * [lock](commands/management/lock.md)
+  * [unlock](commands/management/unlock.md)
+  * [verified\_users](commands/management/verified\_users.md)
+* [Moderation](commands/moderation/README.md)
+  * [ban](commands/moderation/ban.md)
+  * [whitelist](commands/moderation/whitelist.md)
