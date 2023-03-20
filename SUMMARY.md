@@ -8,6 +8,7 @@
 * [Creating the Bot](set-up/creating-the-bot.md)
 * [Setting up Roblox API Token](set-up/setting-up-roblox-api-token.md)
 * [Setting up the Bot](set-up/setting-up-the-bot.md)
+* [Setting up Roblox Model](set-up/setting-up-roblox-model.md)
 
 ## Customizing RoMinistrator
 
