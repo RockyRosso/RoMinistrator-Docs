@@ -20,3 +20,4 @@ RoMinistrator does allow you to create custom commands, but this does require so
 * [ ] Multi Game Management
 * [ ] Game Data Transferring
 * [ ] User Logs
+* [ ] Announcement Management
