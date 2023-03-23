@@ -12,7 +12,7 @@ RoMinistrator is a Roblox game management service which allows admins to connect
 * Lock Their Games
 * ...and more!
 
-RoMinistrator does allow you to create custom commands, but this does require some experience with Javascript, and using the [Eris Discord library](https://abal.moe/Eris/).
+RoMinistrator does allow you to create custom commands, but this does require some experience with Javascript as well as using the [Eris Discord library](https://abal.moe/Eris/).
 
 ### TODO
 
